@@ -11,3 +11,6 @@
 #                  Foremost                    #
 #                   Scalpel                    #
 ################################################
+# ScreenShot: https://i.imgur.com/HeeAOIS.png  #
+#       Interface Language: Ka(Georgian)       #
+################################################
