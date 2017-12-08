@@ -1,10 +1,13 @@
-#           DHSEC Forensics 5h311C0d3          
-#       Interface Language: Ka(Georgian)        
+#          DHSEC Forensics 5h311C0d3          
+#          ინტერფეისის ენა: ქართული.        
+#       ოპერაციული სისტემა: Kali Linux
 ..:.:Dead Hackers Society Gray-Hat Team:.:..  
-#             Coded By sKeL370n_X              
+#            შეიქმნა sKeL370n_X-ს მიერ.              
 #         [+] Forensic Data Recovery[+]        
 #          [+]         USB         [+]         
-#           [+]        HDD        [+]          
+#           [+]        HDD        [+] 
+#            [+] Browser History [+]
+#
 # ScreenShot:                                  
 # 1) https://i.imgur.com/HeeAOIS.png სატესტო  
 # 2) https://i.imgur.com/PzlUOpn.png დემო   
